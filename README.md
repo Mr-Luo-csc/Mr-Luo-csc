@@ -4,7 +4,6 @@
 ### Hi 👋 Have a good Java-trip 🌱🌱🌱
 
 > TODO
-> TODO
 
 <!--
 **Mr-Luo-csc/Mr-Luo-csc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
