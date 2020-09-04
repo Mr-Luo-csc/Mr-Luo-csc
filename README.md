@@ -1,6 +1,10 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-Luo-csc&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-Luo-csc&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<!--&hide_border=true&hide=contribs,issues-->
 
-### Hi there 👋
+### Hi 👋 Have a good Java-trip 🌱🌱🌱
+
+> TODO
+> TODO
 
 <!--
 **Mr-Luo-csc/Mr-Luo-csc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
