@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-Luo-csc&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 <!--&hide_border=true&hide=contribs,issues-->
 
-### Hi 👋 Have a good Java-trip together 🌱🌱🌱
+### Hi 👋 Have a good Java-trip together🌱🌱🌱
 
 > TODO
 
