@@ -3,7 +3,7 @@
 
 #### Hi👋 Have a good Java-trip together🌱🌱🌱
 
-> TODO
+> <b>先感动自己 才鞥感动别人 开启自己的故事 AllRight</b>
 
 <!--
 **Mr-Luo-csc/Mr-Luo-csc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
