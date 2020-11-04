@@ -5,6 +5,8 @@
 
 > <b>先感动自己 才鞥感动别人 开启自己的故事 AllRight</b>
 
+<img src="https://media.giphy.com/media/J9lGBaHFbjZm0/giphy.gif" width="480" height="193" />
+
 <!--
 **Mr-Luo-csc/Mr-Luo-csc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
